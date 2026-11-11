@@ -1,10 +1,10 @@
 # Hi there, I'm Wanthanapron Poolthong <span type="placeholder" placeholder-type="person"></span> 👋
  
 ### 👨‍💻 About Me
-- 🎓 Computer Science Student at Universal Of Phayao **<span type="placeholder" placeholder-type="place"></span>**
-- 💡 Interested in **, System Analysis, and Programmer**
-- 🎯 Current Goal: Learning Hardware and PCB/Circuit and JavaScript
-- 💬 Ask me about **Hardware, JavaScrip**
+- 🎓 Second-year Computer Science Student at the University of Phayao (UP)
+- 💻 Interested in Hardware, Programming, and System Analysis
+- 📚 Currently learning JavaScript, PCB Design, and Circuit Design
+- 🎯 Always learning and improving my skills
  
 ---
 git
