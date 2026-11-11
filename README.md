@@ -2,7 +2,7 @@
  
 ### 👨‍💻 About Me
 - 🎓 Computer Science Student at Universal Of Phayao **<span type="placeholder" placeholder-type="place"></span>**
-- 💡 Interested in **Hardware, System Analysis, and Programmer**
+- 💡 Interested in **, System Analysis, and Programmer**
 - 🎯 Current Goal: Learning Hardware and PCB/Circuit and JavaScript
 - 💬 Ask me about **Hardware, JavaScrip**
  
@@ -25,7 +25,7 @@ git
  
  
 ---
- 
+
 ### 📊 GitHub Statistics
  
 <div align="center">
@@ -41,3 +41,5 @@ git
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/)
+
+
